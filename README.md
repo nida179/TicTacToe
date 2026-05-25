@@ -4,12 +4,6 @@ A classic Tic Tac Toe game built in Java with a dark-themed Swing UI. Play again
 
 ---
 
-## Screenshots
-
-> Player is **O** (cyan), AI is **X** (pink)
-
----
-
 ## Features
 
 - Player vs AI gameplay
